@@ -7,8 +7,8 @@ require (
 	github.com/prometheus/common v0.18.0
 	github.com/stretchr/testify v1.8.0
 	gopkg.in/yaml.v3 v3.0.1
-	trpc.group/trpc-go/trpc-go v0.0.0-20230824091938-4699a10e2f35
-	trpc.group/trpc-go/trpc-metrics-runtime v0.0.0-20230829082809-149da62abe6d
+	trpc.group/trpc-go/trpc-go v1.0.0
+	trpc.group/trpc-go/trpc-metrics-runtime v1.0.0
 )
 
 require (
