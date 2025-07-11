@@ -60,3 +60,7 @@ The metric names are prefixed with ClientFilter and ServerFilter.
 3. The plugin only provides exporter, not Pushgateway and Prometheus server.
 4. Multi-dimension reporting uses the metrics.NewMultiDimensionMetricsX interface to set multi-dimension names, otherwise conflicts may occur.
 5. If you need to push custom data, you can call the GetDefaultPusher method after the plugin is initialized, otherwise the returned pusher is empty.
+
+## Copyright
+
+The copyright notice pertaining to the Tencent code in this repo was previously in the name of “THL A29 Limited.”  That entity has now been de-registered.  You should treat all previously distributed copies of the code as if the copyright notice was in the name of “Tencent.”
