@@ -112,7 +112,7 @@ New files that you contribute should use the standard copyright header:
 
 ```go
 // Tencent is pleased to support the open source community by making tRPC available.
-// Copyright (C) 2023 THL A29 Limited, a Tencent company. All rights reserved.
+// Copyright (C) 2023 Tencent. All rights reserved.
 // If you have downloaded a copy of the tRPC source code from Tencent,
 // please note that tRPC-Go source code is licensed under the Apache 2.0 License,
 // A copy of the Apache 2.0 License can be found in the LICENSE file.
@@ -227,7 +227,7 @@ tRPC-Go 代码仓库中的文件不列出作者姓名，以避免混乱并避免
 您贡献的新文件应使用标准版权声明：
 ```go
 // Tencent is pleased to support the open source community by making tRPC available.
-// Copyright (C) 2023 THL A29 Limited, a Tencent company. All rights reserved.
+// Copyright (C) 2023 Tencent. All rights reserved.
 // If you have downloaded a copy of the tRPC source code from Tencent,
 // please note that tRPC-Go source code is licensed under the Apache 2.0 License,
 // A copy of the Apache 2.0 License can be found in the LICENSE file.
